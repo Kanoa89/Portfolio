@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://papers.co/wallpaper/papers.co-oc53-leaf-hip-minimal-tree-flower-simple-nature-23-wallpaper.jpg");
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    padding-left: 50px;
+    margin: 20px;
+}
+
+
+input[type=text], select, subject, textarea{
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+
+  }
+
+  input[type=submit] {
+      display: block;
+      margin: 0 auto;
+      padding: 12px 30px;
+  }
+nav{
+    background-color: rgba(3, 13, 14, 0.911);
+    
+}
+  .row{
+    width:60%;
+    background-color: #f2f2f2;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
